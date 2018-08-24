@@ -6,4 +6,4 @@ We have Mapped flood-affected areas in Oroville Dam crises, with help of Linestr
 If we are able to code this in time of crisis in our country we can save more lives with just sharing some intel to people out there.
 
 
-Its a map with affected areas which is a danger zone(highlighted in red polygon) and at the time of crisis, we should display those highlighted areas in our live map.
+Its a map which describes the affected areas which is a danger zone(highlighted in red polygon) and at the time of crisis, we should display those highlighted areas in our live map.
